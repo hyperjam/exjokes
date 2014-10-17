@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Student_Jokes>
+    <Joke>
+        <Title>Bad Ladder</Title>
+        <Text>Q:Why did the blonde take a ladder into the bar?A:She heard drinks were on the house</Text>
+    </Joke>
+
+    <Joke>
+        <Title>Reading sentence</Title>
+        <Text>DO NOT READ THE NEXT SENTENCE.You little rebel,i like you</Text>
+    </Joke>
+
+    <Joke>
+        <Title>Bing browser</Title>
+        <Text>The only thing i use BING for is to search Google</Text>
+    </Joke>
+
+</Student_Jokes>
